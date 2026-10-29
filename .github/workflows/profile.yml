@@ -23,18 +23,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Contribution snake
-        uses: Platane/snk@v3.5.0
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            profile-snake/github-snake.svg
-            profile-snake/github-snake-dark.svg?palette=github-dark
-
       - name: Commit images
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile-3d-contrib profile-snake
-          git diff --cached --quiet || git commit -m "Update profile footprints"
+          git add profile-3d-contrib
+          git diff --cached --quiet || git commit -m "Update 3D contribution graph"
           git push
