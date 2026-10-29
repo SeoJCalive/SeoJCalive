@@ -43,7 +43,7 @@
 
 <p align="center"><img src="https://streak-stats.demolab.com?user=SeoJCalive&background=FFF8EE&border=F2C94C&ring=F2994A&fire=E07A2E&currStreakNum=4A3428&sideNums=4A3428&currStreakLabel=E07A2E&sideLabels=7A5A44&dates=9A7B66&stroke=F2C94C&date_format=Y.n.j" alt="GitHub streak"></p>
 
-<p align="center"><img src="./profile-3d-contrib/profile-gitblue.svg" width="100%" alt="3D contribution graph"></p>
+<p align="center"><img src="./profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D contribution graph"></p>
 
 <p align="center">
   <picture>
