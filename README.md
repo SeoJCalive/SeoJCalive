@@ -13,7 +13,7 @@
 
 **INT8 PTQ 객체 탐지에서 캘리브레이션 데이터의 객체 크기 분포에 따른 성능 영향 분석**<br>
 *Performance Impact Analysis of Object Size Distribution in Calibration Data for INT8 PTQ Object Detection*<br>
-**서재철**, 이석훈, 정동원, 정현준 · 한국정보기술학회 2026 하계종합학술대회 · [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12901098)
+**서재철**, 이석훈†, 정동원†, 정현준† · 한국정보기술학회 2026 하계종합학술대회 · [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12901098)
 
 > COCO 2017과 YOLO26으로 캘리브레이션 데이터의 객체 크기 분포(무작위·대형·소형·균형)를 바꿔 INT8 PTQ 성능을 비교했습니다. 치우친 분포는 특정 크기 객체의 성능을 선택적으로 떨어뜨렸고, 균형 분포는 기준선 근처에서 안정적이었습니다.<br>
 > Skewed calibration sets selectively hurt specific object sizes under INT8 PTQ; a size-balanced set stays near baseline.
