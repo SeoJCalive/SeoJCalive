@@ -10,7 +10,7 @@
 <p align="center"><img src="https://skillicons.dev/icons?i=python,cs,dotnet,ros,kotlin,java,linux,git&theme=light" alt="Python, C#, .NET, ROS, Kotlin, Java, Linux, Git"></p>
 
 ## 🦴 Publication
-**※모든 연구는 교수님들의 자문을 받아 연구 설계, 실험, 분석 및 논문 작성 전반을 독립적으로 수행했습니다.※**
+**※모든 연구는 교수님들의 자문을 받아 연구 설계, 실험, 분석 및 논문 작성 전반을 독립적으로 수행되었습니다.※**
 
 **INT8 PTQ 객체 탐지에서 캘리브레이션 데이터의 객체 크기 분포에 따른 성능 영향 분석**<br>
 *Performance Impact Analysis of Object Size Distribution in Calibration Data for INT8 PTQ Object Detection*<br>
