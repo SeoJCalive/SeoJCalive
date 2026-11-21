@@ -1,4 +1,4 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE0A3,100:F2994A&height=200&section=header&text=10%5E8%20Doggy&fontSize=58&fontColor=4A3428&fontAlignY=36&desc=%EC%84%9C%EC%9E%AC%EC%B2%A0%20%C2%B7%20Jaecheol%20Seo&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="1e8 Doggy"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE0A3,100:F2994A&height=200&section=header&text=1e8%20Doggy&fontSize=58&fontColor=4A3428&fontAlignY=36&desc=%EC%84%9C%EC%9E%AC%EC%B2%A0%20%C2%B7%20Jaecheol%20Seo&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="1e8 Doggy"></p>
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=22&duration=2600&pause=900&color=E07A2E&center=true&vCenter=true&width=560&lines=Building%20physical%20%26%20edge%20AI;Go2%20%2B%20ROS%202%20%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%20%EA%B0%9C%EB%B0%9C%20%EC%A4%91;Researching%20INT8%20quantization;Filee%20%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20Collaborator" alt="Building physical & edge AI"></p>
 
